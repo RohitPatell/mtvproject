@@ -1,40 +1,19 @@
-<!DOCTYPE html>
-<html>
-<head>
-<meta charset="utf-8">
-<title>Machinery - HTML Template | Home </title>
-<!-- Stylesheets -->
-<link href="css/bootstrap.css" rel="stylesheet">
-<link href="css/style.css" rel="stylesheet">
-<link href="css/responsive.css" rel="stylesheet">
-
-
-<!--Favicon-->
-<link rel="shortcut icon" href="images/favicon.png" type="image/x-icon">
-<link rel="icon" href="images/favicon.png" type="image/x-icon">
-<!-- Responsive -->
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
-<!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script><![endif]-->
-<!--[if lt IE 9]><script src="js/respond.js"></script><![endif]-->
-</head>
-
-<body>
+<?php
+include('header.php');
+?>
 <div class="page-wrapper">
-    
+
     <!-- Preloader -->
     <div class="preloader"></div>
-    
+
     <!-- Main Header-->
-    
-    <?php
-    include('header.php');
-    ?>
+
+
     <div id="minimal-bootstrap-carousel" class="carousel slide carousel-fade slider-home-one" data-ride="carousel">
         <!-- Wrapper for slides -->
         <div class="carousel-inner" role="listbox">
             <div class="item active slide-1" style="background-image: url(images/bgimage.jpg);background-position: center center;">
-                
+
                 <div class="carousel-caption">
                     <div class="container">
                         <div class="box valign-middle">
@@ -50,10 +29,10 @@
                             </div>
                         </div>
                     </div>
-                </div>                
+                </div>
             </div>
             <div class="item slide-2" style="background-image: url(images/bgimage.jpg);background-position: center center;">
-                
+
                 <div class="carousel-caption">
                     <div class="container">
                         <div class="box valign-middle">
@@ -70,10 +49,10 @@
                             </div>
                         </div>
                     </div>
-                </div>                
+                </div>
             </div>
             <div class="item slide-3" style="background-image: url(images/bgimage.jpg);background-position: center center;">
-                
+
                 <div class="carousel-caption">
                     <div class="container">
                         <div class="box valign-middle">
@@ -90,7 +69,7 @@
                             </div>
                         </div>
                     </div>
-                </div>                
+                </div>
             </div>
         </div>
         <!-- Controls -->
@@ -105,11 +84,13 @@
 
         <ul class="carousel-indicators list-inline custom-navigation">
             <li data-target="#minimal-bootstrap-carousel" data-slide-to="0" class="active"></li><!--
-            --><li data-target="#minimal-bootstrap-carousel" data-slide-to="1"></li><!--
-            --><li data-target="#minimal-bootstrap-carousel" data-slide-to="2"></li>
+            -->
+            <li data-target="#minimal-bootstrap-carousel" data-slide-to="1"></li><!--
+            -->
+            <li data-target="#minimal-bootstrap-carousel" data-slide-to="2"></li>
         </ul>
     </div>
-        
+
 
     <!-- Highlights -->
     <!-- <div class="highlights dark-bg">
@@ -363,12 +344,12 @@
             <div class="sec-title light text-center">
                 <h2>Products</h2>
             </div>
-            
+
             <!--Carousel Box-->
-            <div class="carousel-box">  
+            <div class="carousel-box">
                 <div class="project-carousel owl-carousel owl-theme">
                     <!-- Project Block -->
-                    
+
                     <div class="project-block">
                         <div class="image-box">
                             <figure><a href="images/resource/project-1.jpg" class="ligtbox-image" data-fancybox="gallery"><img src="http://localhost/mmtrajkot/img/dualslider/slide1.jpg" alt=""></a></figure>
@@ -378,7 +359,7 @@
                             </div>
                         </div>
                     </div>
-    
+
                     <!-- Project Block -->
                     <div class="project-block">
                         <div class="image-box">
@@ -389,7 +370,7 @@
                             </div>
                         </div>
                     </div>
-    
+
                     <!-- Project Block -->
                     <div class="project-block">
                         <div class="image-box">
@@ -400,7 +381,7 @@
                             </div>
                         </div>
                     </div>
-    
+
                     <!-- Project Block -->
                     <!-- <div class="project-block">
                         <div class="image-box">
@@ -411,7 +392,7 @@
                             </div>
                         </div>
                     </div> -->
-    
+
                     <!-- Project Block -->
                     <!-- <div class="project-block">
                         <div class="image-box">
@@ -422,7 +403,7 @@
                             </div>
                         </div>
                     </div> -->
-    
+
                     <!-- Project Block -->
                     <!-- <div class="project-block">
                         <div class="image-box">
@@ -477,7 +458,7 @@
 
 
 
-                <!-- <div class="item">
+    <!-- <div class="item">
                     <div class="signle-testimonial-style-one">
                         <div class="inner-box">
                             <img src="images/testimonials/1.png" alt="Awesome Image" class="client-image"/>
@@ -543,11 +524,11 @@
                         </div> 
                     </div> 
                 </div>  -->
-            <!-- </div> 
+    <!-- </div> 
         </div>
     </section> -->
     <!-- End Testimonial Section -->
-    
+
     <!-- <section class="request-qoute-title-block bg-gray">
         <div class="auto-container">
             <div class="sec-title text-center">
@@ -557,7 +538,7 @@
             </div> 
         </div> 
     </section>  -->
-        <!-- Contact Section -->
+    <!-- Contact Section -->
     <!-- <section class="contact-section request-qoute-content-block">
         <div class="auto-container">
             <div class="row clearfix no-gutters">
@@ -623,13 +604,13 @@
                 <div class="row">
                     <div class="col-md-4">
                         <!-- <h4>News & Updates</h4> -->
-                        <h2>Latest Products</h2>        
+                        <h2>Latest Products</h2>
                     </div><!-- /.col-md-4 -->
                     <div class="col-md-5">
                         <div class="text">Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain.</div><!-- /.text -->
                     </div><!-- /.col-md-5 -->
                     <div class="col-md-3 text-right">
-                        <a href="blog-large-image.html" class="theme-btn btn-style-one">More Products</a>
+                        <a href="projects-with-filter.php" class="theme-btn btn-style-one">More Products</a>
                     </div><!-- /.col-md-3 -->
                 </div><!-- /.row -->
             </div><!-- /.sec-title -->
@@ -647,18 +628,18 @@
                                         <li><a href="#">June 06, 2019</a></li>
                                     </ul>  
                                 </div> -->
-                                <h3>
+                                <h3 style="margin-bottom: 25px;">
                                     Hand Press Brake & Hand Folding
                                     <!-- <a href="blog-single.html">We are best for any industrial & business solution.</a> -->
                                 </h3>
-                                
+
                                 <div class="text">Our Heavy Duty Hand Press Brake Machines are made from M.S. Material and Mainly useful for any kind of Steel Furniture Industries..</div>
                                 <div class="more-box clearfix">
                                     <div class="author-box">
                                         <!-- <img src="images/testimonials/1.png" alt="Awesome Image"/> -->
                                         <!-- <span class="author-name">Divina Bulls</span> -->
                                     </div><!-- /.author-box -->
-                                    <div class="link-box"><a href="blog-single.html">Read More</a> <span class="icon icon-aroow-right"></span></div>
+                                    <div class="link-box"><a href="HandPressBrake&HandFolding.php">Read More</a> <span class="icon icon-aroow-right"></span></div>
                                 </div>
                             </div>
                         </div>
@@ -680,14 +661,14 @@
                                     Pillar Drill Machine
                                     <!-- <a href="blog-single.html">10 reason why should choose our industry.</a> -->
                                 </h3>
-                                
+
                                 <div class="text">This machine Capable of drilling, milling, tapping, honing, counter-boring, spot-facing, reaming, and boring and other similar utilities...</div>
                                 <div class="more-box clearfix">
-                                    <div class="author-box">
+                                    <!-- <div class="author-box">
                                         <img src="images/testimonials/2.png" alt="Awesome Image"/>
                                         <span class="author-name">Emilio Kemmer</span>
-                                    </div><!-- /.author-box -->
-                                    <div class="link-box"><a href="blog-single.html">Read More</a> <span class="icon icon-aroow-right"></span></div>
+                                    </div>/.author-box -->
+                                    <div class="link-box"><a href="pillardrillmachine.php">Read More</a> <span class="icon icon-aroow-right"></span></div>
                                 </div><!-- /.more-box -->
                             </div>
                         </div>
@@ -709,14 +690,14 @@
                                     Mechanical Under Crank Shearing
                                     <!-- <a href="blog-single.html">We won best factory award of the year 2015 & 16.</a> -->
                                 </h3>
-                                
+
                                 <div class="text">Under Crank Shearing Machine is suited for cutting to size general purpose unalloyed steel. Structural steel sheets up to 4mm thickness with high productivity...</div>
-                                <div class="more-box clearfix">
-                                    <div class="author-box">
+                                <div style="margin:0px;" class="more-box clearfix">
+                                    <!-- <div class="author-box">
                                         <img src="images/testimonials/3.png" alt="Awesome Image"/>
                                         <span class="author-name">Christin Serrell</span>
-                                    </div><!-- /.author-box -->
-                                    <div class="link-box"><a href="blog-single.html">Read More</a> <span class="icon icon-aroow-right"></span></div>
+                                    </div>/.author-box -->
+                                    <div class="link-box"><a href="mechanicalundercrankshearing.php">Read More</a> <span class="icon icon-aroow-right"></span></div>
                                 </div><!-- /.more-box -->
                             </div>
                         </div>
@@ -777,5 +758,3 @@
     include('footer.php');
 
     ?>
-</body>
-</html>

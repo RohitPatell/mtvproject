@@ -1,33 +1,12 @@
-<!DOCTYPE html>
-<html>
-<head>
-<meta charset="utf-8">
-<title>Machinery - HTML Template | Contact Us 01 </title>
-<!-- Stylesheets -->
-<link href="css/bootstrap.css" rel="stylesheet">
-<link href="css/style.css" rel="stylesheet">
-<link href="css/responsive.css" rel="stylesheet">
-
-
-<!--Favicon-->
-<link rel="shortcut icon" href="images/favicon.png" type="image/x-icon">
-<link rel="icon" href="images/favicon.png" type="image/x-icon">
-<!-- Responsive -->
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
-<!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script><![endif]-->
-<!--[if lt IE 9]><script src="js/respond.js"></script><![endif]-->
-</head>
-
-<body>
+	
+    <?php
+    include_once('header.php');
+    ?>
 <div class="page-wrapper">
  	
     <!-- Preloader -->
     <div class="preloader"></div>
- 	
-    <?php
-    include('header.php');
-    ?>
+ 
     <!-- Main Header-->
     <!-- <header class="main-header">
     	<div class="header-top">
@@ -282,10 +261,10 @@
     <!--End Page Title-->
 
     <!-- Contact Section Two -->
-    <section class="contact-section-two">
-        <div class="auto-container">
-            <div style="padding-bottom: -50px;" class="sec-title">
-                <h2>Get Touch With Us</h2>
+    <section style="margin-top: -90px;" class="contact-section-two">
+        <div style="margin-top:100px; margin-bottom:-100px;" class="auto-container">
+            <div style="padding-bottom: 0px;" class="sec-title">
+                <h2 >Get Touch With Us</h2>
                 <!-- <div class="text">We have 74 branches in US and 145 branches in world wide, you can reach any branch at your desk, our experts will help you 24/7.</div> -->
             </div>
             <!-- <div class="row clearfix">
@@ -564,9 +543,9 @@
         <div class="auto-container">
             <div class="row clearfix">
                 <!-- Title Column -->
-                <div class="image-column col-md-4 col-sm-12 col-xs-12">
+                <div style="margin-top:45px;" class="image-column col-md-4 col-sm-12 col-xs-12">
                     <div class="inner-column">
-                        <div class="image"><img src="images/resource/image-6.png" alt=""></div>
+                        <div class="image"><img style="height: 430px;" src="images2/contactus.jpg" alt=""></div>
                     </div>
                 </div>
 
@@ -613,6 +592,7 @@
     </section>
     <!--End Contact Form Section -->
 
+    </div>    
 
 <!-- Main Footer -->
 <?php
@@ -621,25 +601,4 @@ include('footer.php')
 <!-- End Main Footer -->
 
 
-</div>    
-<!--End pagewrapper-->
 
-<!--Scroll to top-->
-<div class="scroll-to-top scroll-to-target" data-target="html"><span class="icon fa fa-arrow-up"></span></div>
-<script src="js/jquery.js"></script> 
-<script src="js/bootstrap.min.js"></script>
-<script src="js/jquery-ui.js"></script>
-<script src="js/jquery.fancybox.js"></script>
-<script src="js/slick.min.js"></script>
-<script src="js/mixitup.js"></script>
-<script src="js/owl.js"></script>
-<script src="js/appear.js"></script>
-<script src="js/validate.js"></script>
-<script src="js/wow.js"></script>
-<script src="js/script.js"></script>
-<!--Google Map APi Key-->
-<script src="http://maps.google.com/maps/api/js?key=AIzaSyDTPlX-43R1TpcQUyWjFgiSfL_BiGxslZU"></script>
-<script src="js/map-script.js"></script>
-<!--End Google Map APi-->
-</body>
-</html>

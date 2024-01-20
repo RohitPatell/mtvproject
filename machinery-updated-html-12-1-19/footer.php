@@ -1,24 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-    <link href="css/bootstrap.css" rel="stylesheet">
-<link href="css/style.css" rel="stylesheet">
-<link href="css/responsive.css" rel="stylesheet">
-
-
-<!--Favicon-->
-<link rel="shortcut icon" href="images/favicon.png" type="image/x-icon">
-<link rel="icon" href="images/favicon.png" type="image/x-icon">
-<!-- Responsive -->
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
-
-</head>
-<body>
-
 <footer class="main-footer padding-top">
         <div class="auto-container">
             <!--Widgets Section-->
@@ -119,9 +98,8 @@
             </div>
         </div>
     </footer>
-
+    
 <div class="scroll-to-top scroll-to-target" data-target="html"><span class="icon fa fa-arrow-up"></span></div>
-
 <script src="js/jquery.js"></script> 
 <script src="js/bootstrap.min.js"></script>
 <script src="js/jquery-ui.js"></script>
@@ -130,6 +108,7 @@
 <script src="js/appear.js"></script>
 <script src="js/wow.js"></script>
 <script src="js/script.js"></script>
-
+<script src="js/mixitup.js"></script>
+<script src="js/script.js"></script>
 </body>
 </html>
