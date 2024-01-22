@@ -122,13 +122,16 @@
                                        <li><a href="projects-single.html">Single Project</a></li>
                                    </ul>
                                </li> -->
-                               <li class="dropdown"><a href="#">News</a>
+
+                               <li><a href="ourservices.php">Services</a></li>
+
+                               <!-- <li class="dropdown"><a href="#">News</a>
                                    <ul>
                                        <li><a href="blog.html">Blog Default</a></li>
                                        <li><a href="blog-large-image.html">Blog Large Image</a></li>
                                        <li><a href="blog-single.html">Single Post</a></li>
                                    </ul>
-                               </li>
+                               </li> -->
                                <li class="dropdown"><a href="#">Shop</a>
                                    <ul>
                                        <li><a href="shop.html">Shop Products</a></li>

@@ -23,32 +23,24 @@ include_once('header.php');
         <div class="upper-box">
           <div class="single-item-carousel owl-carousel owl-theme">
             <div class="slide">
-              <div class="image">
-                <img style="height:700px; width: 1000px; margin-top:20px" src="images2/slotting-machine-ms3.jpg" alt="" />
+              <div style="display: flex;" class="image">
+                <img style="height:300px; width: 300px; border:1px solid #c9c9c9" src="images2/slotting-machine-ms3.jpg" alt="" />
+                <div  style="margin-top: 1px; text-align:justify; margin-left:20px;" class="text">
+                <!-- <h5>FRAME:</h5> -->
+                <p>Our Slotting Machine is being prepared with Genuine Components with its Accurate Size : as well as with latest technology & all the components are being inspected at Every Stage of Production by our Qualified staff to Maintain Quality for every & we want to achieve satisfaction through our Quality Products. Also we look forward to Enhance Relationship with our Customers as well as attract new Business Relationship.</p>
+                <!-- <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatems accusantium doloremqu laudantiums ut, totams our aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae duis autems vell eums iriure dolors in hendrerit saepe eveniet  in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at seds eros sed et accumsan et iusto odio dignissim. Temporibus autem quibusdam et aut officiis debitis autrerum necesy itatibus saepe evenit uts et ut voluptates repudiandae sint et molestiae non recusandae.</p>
+                                <p>Architecto beatae duis autems vell eums iriure dolors in hendrerit saepe eveniet  in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at seds eros sed et accumsan et iusto odio works dignissim et autre officiis debitis autrerum sed necessitatibus saepe evenit.</p> -->
+              </div>
               </div>
             </div>
           </div>
         </div>
 
         <!-- <h2 class="title">London Wind Energy Plant</h2> -->
-        <div class="row clearfix">
-          <!--Content Box-->
-          <div style="width:100%;" class="content-column col-lg-9 col-md-8 col-sm-12 col-xs-12">
-            <div class="inner-column">
-              <div class="text">
-                <!-- <h5>FRAME:</h5> -->
-                <p>Our Slotting Machine is being prepared with Genuine Components with its Accurate Size : as well as with latest technology & all the components are being inspected at Every Stage of Production by our Qualified staff to Maintain Quality for every & we want to achieve satisfaction through our Quality Products. Also we look forward to Enhance Relationship with our Customers as well as attract new Business Relationship.</p>
-                <!-- <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatems accusantium doloremqu laudantiums ut, totams our aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae duis autems vell eums iriure dolors in hendrerit saepe eveniet  in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at seds eros sed et accumsan et iusto odio dignissim. Temporibus autem quibusdam et aut officiis debitis autrerum necesy itatibus saepe evenit uts et ut voluptates repudiandae sint et molestiae non recusandae.</p>
-                                <p>Architecto beatae duis autems vell eums iriure dolors in hendrerit saepe eveniet  in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at seds eros sed et accumsan et iusto odio works dignissim et autre officiis debitis autrerum sed necessitatibus saepe evenit.</p> -->
-              </div>
-
-            </div>
-          </div>
-
-        </div>
+       
       </div>
       <div class="container">
-        <h2>Specifications</h2>
+        <h2 style="color: black; margin-bottom:20px;">Specifications</h2>
       </div>
     </div>
     <div class="container mt-5">

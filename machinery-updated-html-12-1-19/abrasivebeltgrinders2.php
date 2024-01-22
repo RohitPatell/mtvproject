@@ -12,7 +12,7 @@ include_once('header.php');
 
 
     <!--Project Single Section-->
-    <section style="margin-bottom: -70px;" class="project-single-section">
+    <section style="margin-bottom: 15px;" class="project-single-section">
 
         <div class="auto-container">
             <h2 style="color: black; padding: 10px;">ABRASIVE BELT GRINDERS</h2>
@@ -23,19 +23,9 @@ include_once('header.php');
                 <div class="upper-box">
                     <div class="single-item-carousel owl-carousel owl-theme">
                         <div class="slide">
-                            <div class="image">
-                                <img style="height:700px; width: 1000px; margin-top:20px" src="images2/abrasive-belt-grinders2.jpg" alt="" />
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- <h2 class="title">London Wind Energy Plant</h2> -->
-                <div class="row clearfix">
-                    <!--Content Box-->
-                    <div style="width:100%;" class="content-column col-lg-9 col-md-8 col-sm-12 col-xs-12">
-                        <div class="inner-column">
-                            <div class="text">
+                            <div style="display: flex;" class="image">
+                                <img style="height:300px; width: 300px; border:1px solid #c9c9c9; margin-top:20px" src="images2/abrasive-belt-grinders2.jpg" alt="" />
+                                <div style="margin-top: 15px; margin-left:20px;" class="text">
                                 <!-- <h5>FRAME:</h5> -->
                                 <p>Versatile machine generally requested for Forge Shops, Press Shops, Ferrous & non Ferrous Foundries, Fabrication Shops, Engineering Industries, Plastic & Glass Industries, Rubber & Leather Industries and wood Industries.</p>
                                 <p>Rate of material removal is optimum. Excellent ground finish obtained.</p>
@@ -43,7 +33,14 @@ include_once('header.php');
                                 <p>Machines available in four models i.e. Single Ended, Double Ended, Lathe Mounting and Multipurpose Combination machine.</p>
                                 <p>Lathe Mounting belt grinding machines are designed to grind and polish shafts, rollers, cyclinders for plastic industries, textile screw etc. in this model the job will rotate between centers and the machine is mounted on lathe carriage.</p>
                                 <p>Combination Multipurpose machines are universal machines where both wheel grinding and belt grinding jobs can be carried out.</p>
-                                <p>Use of best quality stamping and diecast rotors.</p>
+                                <!-- <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatems accusantium doloremqu laudantiums ut, totams our aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae duis autems vell eums iriure dolors in hendrerit saepe eveniet  in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at seds eros sed et accumsan et iusto odio dignissim. Temporibus autem quibusdam et aut officiis debitis autrerum necesy itatibus saepe evenit uts et ut voluptates repudiandae sint et molestiae non recusandae.</p>
+                                <p>Architecto beatae duis autems vell eums iriure dolors in hendrerit saepe eveniet  in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at seds eros sed et accumsan et iusto odio works dignissim et autre officiis debitis autrerum sed necessitatibus saepe evenit.</p> -->
+                            </div>
+
+                        
+                            </div>
+                            <div style="margin-top:10px; margin-left:10px;">
+                            <p>Use of best quality stamping and diecast rotors.</p>
                                 <p>Dynamically Balanced rotor minimise vibrations and ensure smooth running.</p>
                                 <p>Telescopic tendering arm for belt tensioning.</p>
                                 <p>Construction of the machines are made sturdy and robust to offer vibration free performance.</p>
@@ -54,11 +51,19 @@ include_once('header.php');
                                 <p>All machines are subject to rigid quality control tests.</p>
                                 <p>Machines of different voltage and different frequency can be supplied against specific orders.</p>
                                 <p>All machines carry warranty (except ball bearings) against any manufacturing defect as per the warranty terms prevailing of the company. No warranty for wear and tear items.</p>
-                                <h2 style="color: black;">SPECIFCATIONS FOR ABRASIVE BELT GRINDERS</h2>
-                                <!-- <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatems accusantium doloremqu laudantiums ut, totams our aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae duis autems vell eums iriure dolors in hendrerit saepe eveniet  in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at seds eros sed et accumsan et iusto odio dignissim. Temporibus autem quibusdam et aut officiis debitis autrerum necesy itatibus saepe evenit uts et ut voluptates repudiandae sint et molestiae non recusandae.</p>
-                                <p>Architecto beatae duis autems vell eums iriure dolors in hendrerit saepe eveniet  in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at seds eros sed et accumsan et iusto odio works dignissim et autre officiis debitis autrerum sed necessitatibus saepe evenit.</p> -->
+                                <h2 style="margin-top:15px; color: black;">SPECIFCATIONS FOR ABRASIVE BELT GRINDERS</h2>
+                                
                             </div>
-                            <div class="container mt-5">
+                        </div>
+                    </div>
+                </div>
+
+                <!-- <h2 class="title">London Wind Energy Plant</h2> -->
+                <div class="row clearfix">
+                    <!--Content Box-->
+                    <div style="width:100%;" class="content-column col-lg-9 col-md-8 col-sm-12 col-xs-12">
+                        <div class="inner-column">
+                                                       <div class="container mt-5">
                                 <table class="table table-bordered">
                                     <thead class="thead-dark">
                                         <tr>
