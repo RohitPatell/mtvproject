@@ -26,7 +26,9 @@
 <!-- Responsive -->
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
-
+  <script src="https://cdn.jsdelivr.net/npm/jquery@3.7.1/dist/jquery.slim.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.bundle.min.js"></script>
 </head>
 <body>
     
@@ -36,7 +38,7 @@
        <!--Header-Upper-->
        <div class="header-upper">
            <div class="auto-container">
-               <div class="clearfix">
+               <div style="height: 100px;" class="clearfix">
                    
                    <div style="height: 170px;" class="pull-left logo-outer">
                        <div  class="logo"><a href="index.html"><img style="margin-top: 27px;" src="images/mmtlogo.png" alt="" title=""></a></div>
@@ -48,8 +50,9 @@
                        <div class="upper-column info-box">
                            <div class="icon-box"><span class="machinery-icon-map"></span></div>
                            <ul>
-                               <li>Dhebar Road, Opp. Mehta Petrol Pump,</li>
-                               <li><strong>Rajkot - 360 002 Gujarat (India).</strong></li>
+                            <li></li>
+                               <li>'Kailash',Dhebar Road, Opp. Mehta Petrol </li>
+                               <li><strong>Pump, Rajkot - 360 002 Gujarat (India).</strong></li>
                            </ul>
                        </div>
                        
@@ -102,13 +105,13 @@
                                        <li><a href="index2.html">Home Two</a></li>
                                    </ul>
                                </li> -->
-                               <li class="dropdown"><a href="#">About Us</a>
-                                   <ul>
+                               <li ><a href="aboutus.php">About Us</a>
+                                   <!-- <ul>
                                        <li><a href="about.html">About Company</a></li>
                                        <li><a href="testimonial.html">Testimonials</a></li>
                                        <li><a href="faqs.html">FAQ’s</a></li>
                                        <li><a href="pricing.html">Pricing Table</a></li>
-                                   </ul>
+                                   </ul> -->
                                </li>
                                
 

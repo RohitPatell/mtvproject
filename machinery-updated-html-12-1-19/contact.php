@@ -543,11 +543,7 @@
         <div class="auto-container">
             <div class="row clearfix">
                 <!-- Title Column -->
-                <div style="margin-top:45px;" class="image-column col-md-4 col-sm-12 col-xs-12">
-                    <div class="inner-column">
-                        <div class="image"><img style="height: 430px;" src="images2/contactus.jpg" alt=""></div>
-                    </div>
-                </div>
+               
 
                 <!-- Form Column -->
                 <div class="form-column col-md-8 col-sm-12 col-xs-12">
@@ -586,6 +582,24 @@
                             </form>
                         </div>
                     </div>
+                </div>
+                <!-- <div style="margin-top:45px;" class="image-column col-md-4 col-sm-12 col-xs-12">
+                    <div class="inner-column">
+                        <div class="image"><img style="height: 430px;" src="images2/contactus.jpg" alt=""></div> 
+                   
+                    </div>
+                </div> -->
+                <div style="margin-top:45px; border:solid 1px black" class="image-column col-md-4 col-sm-12 col-xs-12">
+                <div style="margin-top:0px; text-align:justify; "><h3 style="background-color: black; padding:5px; padding-left:50px;color:white;">Location</h3></div>
+<div style="margin-left:20px;">
+    <h4 style="float: left; color:black; margin-top:15px;">Modern Machine Tools</h4><br>
+    <p style="margin-top:20px; margin-right:270px;">'Kailash'</p>
+    <p style="margin-right: 80px;">Dhebar Road, Opp. Mehta Petrol </p>
+    <p style="margin-left:16px; width:170px;">Pump, Rajkot - 360 002</p>
+    <p style="padding-right: 204px;">Gujarat (India).</p>
+    <p style="margin-right:138px;"><span style="font-size:500;"><b style="color: black;">Tel.Fax:</b></span>+91 9377662911</p>
+</div>
+ </div>
                 </div>
             </div>
         </div>

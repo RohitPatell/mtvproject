@@ -12,10 +12,10 @@
                                 <div class="text">
                                     <h4>Let’s join & create something together</h4>
                                     <p>Must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and will give you completed.</p>
-                                    <form class="subscribe-form">
+                                    <!-- <form class="subscribe-form">
                                         <input type="text" name="email" placeholder="Enter your email address...">
                                         <button type="submit"><i class="machinery-icon-next"></i>Subscribe Us</button>
-                                    </form>
+                                    </form> -->
                                 </div>
                             </div>
                         </div>

@@ -11,27 +11,36 @@ include_once('header.php');
 
 </div>
 
-<div style=" background-color:#8e8e8e; height: 360px; width: 350px; float:right; margin-left: 100px; " class="rightcontent">
+<div style="height: 360px; width: 350px; float:right; margin-left: 100px; " class="rightcontent">
 <div class="headingtext"><h2 style="color: white; width:100%; padding-left: 45px;  background-color:black;">Products</h2></div>
-<ul class="list">
-   <li style="line-height:16px; margin:15px;"><a style=" font-weight:600; color: black;" href="drillmachinesgroup.php">  Drill Machine</a></li>
-   <li style="line-height:16px; margin:15px;"><a style=" font-weight:600; color: black;" href="">  Grinders</a></li>
-   <li style="line-height:16px; margin:15px;"><a style=" font-weight:600; color: black;" href="">  Hacksaw And Metal Cutting Band Saw Machine</a></li>
-   <li style="line-height:16px; margin:15px;"><a style=" font-weight:600; color: black;" href="">  Shapping Machine</a></li>
-   <li style="line-height:16px; margin:15px;"><a style=" font-weight:600; color: black;" href="">  Slotting Machine</a></li>
-   <li style="line-height:16px; margin:15px;"><a style=" font-weight:600; color: black;" href="">  Welding Machine</a></li>
-   <li style="line-height:16px; margin:15px;"><a style=" font-weight:600; color: black;" href="">  Chuck</a></li>
-   <li style="line-height:16px; margin:15px;"><a style=" font-weight:600; color: black;" href="">  CNC Machine Spares</a></li>
-   <li style="line-height:16px; margin:15px;"><a style=" font-weight:600; color: black;" href="">  Stabilizer</a></li>
-   <li style="line-height:16px; margin:15px;"><a style=" font-weight:600; color: black;" href="">  </a></li>
-</ul>
+<div style="height: 700px; "  class="list-group">
+    <a style="padding-top: 3px; padding-bottom:3px;" href="drillmachinesgroup.php" class="list-group-item list-group-item-dark">Drill Machine</a>
+    <a style="padding-top: 3px; padding-bottom:3px;" href="grindersgroup.php" class="list-group-item list-group-item-secondary">Grinders</a>
+    <a style="padding-top: 3px; padding-bottom:3px;" href="hacksawandmetalcuttingbandsawmachinegroup.php" class="list-group-item list-group-item-dark">Hacksaw And Metal Cutting Band Saw Machine</a>
+    <a style="padding-top: 3px; padding-bottom:3px;" href="shapingmachinesgroup.php" class="list-group-item list-group-item-secondary">Shapping Machine</a>
+    <a style="padding-top: 3px; padding-bottom:3px;" href="slottingmachinesgroup.php" class="list-group-item list-group-item-secondary">Slotting Machine</a>
+    <a style="padding-top: 3px; padding-bottom:3px;" href="weldingmachinesgroup.php" class="list-group-item list-group-item-secondary">Welding Machine</a>
+    <a style="padding-top: 3px; padding-bottom:3px;" href="chuckgroupc.php" class="list-group-item list-group-item-secondary">Chuck</a>
+    <a style="padding-top: 3px; padding-bottom:3px;" href="cncmachinesparesgroup.php" class="list-group-item list-group-item-secondary">CNC Machine Spares</a>
+    <a style="padding-top: 3px; padding-bottom:3px;" href="stabilizergroup.php" class="list-group-item list-group-item-secondary">Stabilizer</a>
+    
+  </div>
+<!-- <ul class="list">
+   <li ><a class="list-group-item list-group-item-dark"  href="drillmachinesgroup.php">  </a></li>
+   <li ><a class="list-group-item list-group-item-dark"  href="">  Grinders</a></li>
+   <li ><a class="list-group-item list-group-item-dark"  href="">  </a></li>
+   <li ><a class="list-group-item list-group-item-dark"  href="">  </a></li>
+   <li ><a class="list-group-item list-group-item-dark"  href="">  </a></li>
+   <li ><a class="list-group-item list-group-item-dark"  href="">  </a></li>
+   <li ><a class="list-group-item list-group-item-dark"  href="">  </a></li>
+   <li ><a class="list-group-item list-group-item-dark"  href="">  </a></li>
+   <li ><a class="list-group-item list-group-item-dark"  href="">  </a></li>
+</ul> -->
 </div>
-
-
 </div>
 
 
 
 <?php
-include_once('footer.php');
+ include_once('footer.php');
 ?>

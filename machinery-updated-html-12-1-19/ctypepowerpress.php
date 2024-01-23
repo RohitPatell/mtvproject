@@ -18,7 +18,7 @@ include_once('header.php');
                     <div class="single-item-carousel owl-carousel owl-theme">
                         <div class="slide">
                             <div style="display: flex;" class="image">
-                                <img style="height:300px; width: 300px; border:1px solid #c9c9c9" src="http://localhost/mmtrajkot/img/product/big/c-type.jpg" alt="" />
+                                <img style="height:300px; width: 300px; border:1px solid #c9c9c9" src="images2/c-type.jpg" alt="" />
                                 <div style="margin-left: 20px; text-align: justify;" class="text">
                             <h5>FRAME:</h5>
                             <p>The frame is made of steel construction and their heavy cross section and rigiddesign assure minimum deflection and accurate alignment cast iron legs will be supplied up to 30 ton press.</p>

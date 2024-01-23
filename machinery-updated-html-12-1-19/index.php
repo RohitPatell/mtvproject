@@ -352,10 +352,9 @@ include('header.php');
 
                     <div class="project-block">
                         <div class="image-box">
-                            <figure><a href="images/resource/project-1.jpg" class="ligtbox-image" data-fancybox="gallery"><img src="http://localhost/mmtrajkot/img/dualslider/slide1.jpg" alt=""></a></figure>
+                            <figure><img src="http://localhost/mmtrajkot/img/dualslider/slide1.jpg" alt=""></figure>
                             <div class="title-box">
-                                <h3><a href="projects-single.html">Welcome to MODERN Machine Tools</a></h3>
-                                <span class="tag">Engineering</span>
+                                <h3><a href="projects-with-filter.php">Welcome to MODERN Machine Tools</a></h3>
                             </div>
                         </div>
                     </div>
@@ -363,10 +362,9 @@ include('header.php');
                     <!-- Project Block -->
                     <div class="project-block">
                         <div class="image-box">
-                            <figure><a href="images/resource/project-2.jpg" class="ligtbox-image" data-fancybox="gallery"><img src="http://localhost/mmtrajkot/img/dualslider/slide4.jpg" alt=""></a></figure>
+                            <figure><img src="http://localhost/mmtrajkot/img/dualslider/slide4.jpg" alt=""></figure>
                             <div class="title-box">
-                                <h3><a href="projects-single.html">Distributors of All Kinds of Machineries</a></h3>
-                                <span class="tag">Construction</span>
+                                <h3><a href="projects-with-filter.php">Distributors of All Kinds of Machineries</a></h3>
                             </div>
                         </div>
                     </div>
@@ -374,10 +372,9 @@ include('header.php');
                     <!-- Project Block -->
                     <div class="project-block">
                         <div class="image-box">
-                            <figure><a href="images/resource/project-3.jpg" class="ligtbox-image" data-fancybox="gallery"><img src="http://localhost/mmtrajkot/img/dualslider/rot2_05.jpg" alt=""></a></figure>
+                            <figure><img src="http://localhost/mmtrajkot/img/dualslider/rot2_05.jpg" alt=""></figure>
                             <div class="title-box">
-                                <h3><a href="projects-single.html">High Precision Quality Machines</a></h3>
-                                <span class="tag">Power & Energy</span>
+                                <h3><a href="projects-with-filter.php">High Precision Quality Machines</a></h3>
                             </div>
                         </div>
                     </div>
@@ -620,7 +617,7 @@ include('header.php');
                     <!-- News Block -->
                     <div class="news-block">
                         <div class="inner-box">
-                            <div class="image-box"><a href="blog-single.html"><img src="http://localhost/mmtrajkot/img/product/hand-press-brake.jpg" alt=""></a></div>
+                            <div class="image-box"><a href="HandPressBrake&HandFolding.php"><img src="http://localhost/mmtrajkot/img/product/hand-press-brake.jpg" alt=""></a></div>
                             <div class="lower-content clearfix">
                                 <!-- <div class="info">
                                     <ul>
@@ -649,7 +646,7 @@ include('header.php');
                     <!-- News Block -->
                     <div class="news-block">
                         <div class="inner-box">
-                            <div class="image-box"><a href="blog-single.html"><img src="http://localhost/mmtrajkot/img/product/pillar-drill-machine.png" alt=""></a></div>
+                            <div class="image-box"><a href="pillardrillmachine.php"><img src="http://localhost/mmtrajkot/img/product/pillar-drill-machine.png" alt=""></a></div>
                             <div class="lower-content clearfix">
                                 <div class="info">
                                     <!-- <ul>
@@ -678,7 +675,7 @@ include('header.php');
                     <!-- News Block -->
                     <div class="news-block">
                         <div class="inner-box">
-                            <div class="image-box"><a href="blog-single.html"><img src="http://localhost/mmtrajkot/img/product/mechanical-under-crank-shearing.jpg" alt=""></a></div>
+                            <div class="image-box"><a href="mechanicalundercrankshearing.php"><img src="http://localhost/mmtrajkot/img/product/mechanical-under-crank-shearing.jpg" alt=""></a></div>
                             <div class="lower-content clearfix">
                                 <!-- <div class="info">
                                     <ul>
