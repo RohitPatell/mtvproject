@@ -2,7 +2,7 @@
 include_once('header.php');
 ?>
 <div style="margin-top: 100px; color:black; display:flex; margin-bottom:60px;" class="container">
- <div style="width: 770px; text-align:justify" class="leftcontent">
+ <div style="width: 754px; text-align:justify" class="leftcontent">
 <h1>About Modern Machine Tools</h1>
 <p>We Modern Machine Tools have completed 40 years of our journey in supplying quality machines and machine tools with backing of reputed manufacturers from different part of the country, mainly we deal with Zither, Seco, MEW, MMT, Malik, Rajlaxmi, Jivan, Turner, Turbo, Macpower, Sarswati, New Bharat, Bosch, Hitachi, Suguna, SEC, Jaswant, Niku, NK, karachi, Shailesh, Rajesh etc.</p>
 <img style="margin-top: 20px; padding:7px; margin-bottom:20px; border:1px solid black; width:100%;" src="images2/image4.jpg" alt=""> 

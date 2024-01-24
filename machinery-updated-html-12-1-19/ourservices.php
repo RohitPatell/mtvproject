@@ -9,7 +9,7 @@ include_once('header.php');
 <p style="margin-top: 10px; "> Deliver the machines as per the commitments</p>
 <p style="margin-top: 10px; ">The motive of our team is to turn knowledge and skill into success and continuous improvements in products Achieving Expertise in design development and improvements by using advance technology to meet global standards, Modern's vision is to be valued as the world's leading supplier of Sheet Metal Machinery.</p>
 
-  <div style="height: 150px; margin-top:13px; margin-left:260px; width:500px; border:1px solid black">
+  <div style="height: 210px; margin-top:13px;  width:100%; border:1px solid black">
 <h3 style="color:white; height:35px; text-align:center; background-color:black" >Quick Contact</h3>
 <div style="text-align: left; margin-left:20px;">  
                         <h5 style="margin-top: 10px; color:black; ">Modern Machine Tools</h5>
@@ -17,7 +17,8 @@ include_once('header.php');
                            <p> </p>
                            <p></p>
                            <p>Rajkot - 360 002 Gujarat (India).</p>
-                           <p></p>
+                           <p style="margin-top: 15px;margin-bottom: 15px;"> <b style="color: black;">Email :</b> <span><a style="color: #848484;" href="mailto:modernmt.sales@gmail.com">modernmt.sales@gmail.com</a></span></p>
+
                            <!-- <p style="margin-top: 15px;margin-bottom: 15px;"> <b style="color: black;">Email :</b> modernmt.sales@gmail.com</p> -->
                            <p> <b style="color: black;">Tel :</b> +91-9377662911</p>
                    

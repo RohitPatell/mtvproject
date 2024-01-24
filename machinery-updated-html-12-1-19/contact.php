@@ -599,7 +599,7 @@
                            <p>Dhebar Road, Opp. Mehta Petrol Pump,</p>
                            <p>Rajkot - 360 002</p>
                            <p>Gujarat (India).</p>
-                           <p style="margin-top: 15px;margin-bottom: 15px;"> <b style="color: black;">Email :</b> <span><a href="mailto:modernmt.sales@gmail.com">modernmt.sales@gmail.com</a></span></p>
+                           <p style="margin-top: 15px;margin-bottom: 15px;"> <b style="color: black;">Email :</b> <span><a style="color: #848484;" href="mailto:modernmt.sales@gmail.com">modernmt.sales@gmail.com</a></span></p>
                            <p> <b style="color: black;">Tel :</b> +91-9377662911</p>
                     </div>          
                 </div>

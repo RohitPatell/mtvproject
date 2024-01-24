@@ -1,4 +1,4 @@
-<div style="width: 300px; "  class="container">
+<div style="width: 350px; "  class="container">
 <div style="margin-top:15px;"><h3 style="background-color: black; padding:5px; padding-left:14px;color:white;">Modern Machine Tools</h3></div>
   <div  class="list-group">
     <a  href="aboutus.php" class="list-group-item list-group-item-dark"> About Us</a>
@@ -19,16 +19,17 @@
 </div>
 
  </div> -->
- <div style="border: 1px solid black; height:260px;" class="inner-column">
+ <div style="border: 1px solid black; width: 320px; height:290px;" class="inner-column">
                         <h3 style="color: white; text-align:center; height: 50px; background-color:black;">Quick Contact</h3>
                     <div style="text-align: left; margin-left:20px;">  
                         <h5 style="margin-top: 10px; color:black; ">Modern Machine Tools</h5>
                            <p style="margin-top:px;">'Kailash',</p>
-                           <p>Dhebar Road, Opp. Mehta </p>
-                           <p>Petrol Pump,</p>
+                           <p>Dhebar Road, Opp. Mehta Petrol Pump,</p>
+                           <p></p>
                            <p>Rajkot - 360 002</p>
                            <p>Gujarat (India).</p>
                            <!-- <p style="margin-top: 15px;margin-bottom: 15px;"> <b style="color: black;">Email :</b> modernmt.sales@gmail.com</p> -->
+                           <p style="margin-top: 15px;margin-bottom: 15px;"> <b style="color: black;">Email :</b> <span><a style="color: #848484;" href="mailto:modernmt.sales@gmail.com">modernmt.sales@gmail.com</a></span></p>
                            <p> <b style="color: black;">Tel :</b> +91-9377662911</p>
                    
                     </div>          

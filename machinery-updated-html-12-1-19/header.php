@@ -41,7 +41,7 @@
                <div style="height: 100px;" class="clearfix">
                    
                    <div style="height: 170px;" class="pull-left logo-outer">
-                       <div  class="logo"><a href="index.html"><img style="margin-top: 27px;" src="images/mmtlogo.png" alt="" title=""></a></div>
+                       <div  class="logo"><a href="index.php"><img style="margin-top: 27px;" src="images/mmtlogo.png" alt="" title=""></a></div>
                    </div>
                    
                    <div class="pull-right upper-right clearfix">
