@@ -1,13 +1,28 @@
 <?php
 include_once('header.php');
 ?>
-<div style="display: flex; margin-top: 110px; margin-bottom: 190px;" class="container">
-<div style=" height: auto; width: 1100px; float:left" class="leftcontent">
+<div style="display: flex; margin-top: 110px; margin-bottom: 70px;" class="container">
+<div style=" height: auto; width: 1100px; text-align:justify; float:left" class="leftcontent">
  <h1 style="color: black;">Our Services</h1>
- <p style="margin-top: 10px;">We at MODERN committed to provide innovative, cost effective solutions to our customers that meets their specific needs and expectations. Satisfying customer specific requirements for the product Manufactured and providing in time service.</p>
- <p style="margin-top: 10px;">Increase the production and deliver to customer timely</p>
-<p style="margin-top: 10px;"> Deliver the machines as per the commitments</p>
-<p style="margin-top: 10px;">The motive of our team is to turn knowledge and skill into success and continuous improvements in products Achieving Expertise in design development and improvements by using advance technology to meet global standards, Modern's vision is to be valued as the world's leading supplier of Sheet Metal Machinery.</p>
+ <p style="margin-top: 10px; ">We at MODERN committed to provide innovative, cost effective solutions to our customers that meets their specific needs and expectations. Satisfying customer specific requirements for the product Manufactured and providing in time service.</p>
+ <p style="margin-top: 10px; ">Increase the production and deliver to customer timely</p>
+<p style="margin-top: 10px; "> Deliver the machines as per the commitments</p>
+<p style="margin-top: 10px; ">The motive of our team is to turn knowledge and skill into success and continuous improvements in products Achieving Expertise in design development and improvements by using advance technology to meet global standards, Modern's vision is to be valued as the world's leading supplier of Sheet Metal Machinery.</p>
+
+  <div style="height: 150px; margin-top:13px; margin-left:260px; width:500px; border:1px solid black">
+<h3 style="color:white; height:35px; text-align:center; background-color:black" >Quick Contact</h3>
+<div style="text-align: left; margin-left:20px;">  
+                        <h5 style="margin-top: 10px; color:black; ">Modern Machine Tools</h5>
+                           <p style="margin-top:px;">'Kailash',Dhebar Road, Opp. Mehta Petrol Pump,</p>
+                           <p> </p>
+                           <p></p>
+                           <p>Rajkot - 360 002 Gujarat (India).</p>
+                           <p></p>
+                           <!-- <p style="margin-top: 15px;margin-bottom: 15px;"> <b style="color: black;">Email :</b> modernmt.sales@gmail.com</p> -->
+                           <p> <b style="color: black;">Tel :</b> +91-9377662911</p>
+                   
+                    </div>  
+ </div>
 
 </div>
 

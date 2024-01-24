@@ -135,7 +135,7 @@
                                        <li><a href="blog-single.html">Single Post</a></li>
                                    </ul>
                                </li> -->
-                               <li class="dropdown"><a href="#">Shop</a>
+                               <!-- <li class="dropdown"><a href="#">Shop</a>
                                    <ul>
                                        <li><a href="shop.html">Shop Products</a></li>
                                        <li><a href="shop-single.html">Product Single</a></li>
@@ -143,7 +143,7 @@
                                        <li><a href="checkout.html">Checkout</a></li>
                                         <li><a href="login.html">My Account</a></li>
                                    </ul>
-                               </li>
+                               </li> -->
                                <li><a href="contact.php">Contact</a></li>
 
                                <!-- <li class="dropdown"><a href="#">Contact Us</a>
