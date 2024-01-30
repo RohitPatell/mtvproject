@@ -261,10 +261,10 @@
     <!--End Page Title-->
 
     <!-- Contact Section Two -->
-    <section style="margin-top: -90px;" class="contact-section-two">
-        <div style="margin-top:100px; margin-bottom:-100px;" class="auto-container">
+    <section  class="contact-section-twoo contact-section-two">
+        <div class="condiv"  class="auto-container">
             <div style="padding-bottom: 0px;" class="sec-title">
-                <h2 >Get Touch With Us</h2>
+                <!-- <h2  class="gettouctwithus">Get Touch With Us</h2> -->
                 <!-- <div class="text">We have 74 branches in US and 145 branches in world wide, you can reach any branch at your desk, our experts will help you 24/7.</div> -->
             </div>
             <!-- <div class="row clearfix">
@@ -540,14 +540,14 @@
 
     <!-- Contact Form Section -->
     <section style="margin-bottom: 50px;" class="contact-form-section">
-        <div class="auto-container">
-            <div class="row clearfix">
+        <div class="autoconn auto-container">
+            <div class="row clearfix contacttus">
                 <!-- Title Column -->
                
 
                 <!-- Form Column -->
                 <div class="form-column col-md-8 col-sm-12 col-xs-12">
-                    <div class="inner-column">
+                    <div class="inner-colun">
                         <div class="sec-title">
                             <h2>Send Message Us</h2>
                             <div class="text">Don’t hestiate to ask us something, Our customer support team always ready to help you,they will support you 24/7.</div>

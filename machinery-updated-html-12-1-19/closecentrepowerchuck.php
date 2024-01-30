@@ -12,7 +12,7 @@ include_once('header.php');
 
 
     <!--Project Single Section-->
-    <section style="padding-bottom: 10px;" class="project-single-section">
+    <section style="padding-bottom: 10px;" class="project-single-section projectsinglesection">
 
         <div class="auto-container">
             <h2 style="color: black; padding: 10px;">Close Centre Power Chuck</h2>
@@ -23,9 +23,9 @@ include_once('header.php');
                 <div class="upper-box">
                     <div class="single-item-carousel owl-carousel owl-theme">
                         <div class="slide">
-                            <div style="display: flex;" class="image">
+                            <div style="display: flex;" class="image twentyfivemmimg">
                                 <img style="height:300px; width: 300px; border:1px solid #c9c9c9" src="images2/close-centre-power-chuck.jpg" alt="" />
-                                <div style="margin-top:1px; margin-left:20px;" class="text">
+                                <div style="margin-top:1px;" class="text threeeighttext">
                                 <!-- <h5>FRAME:</h5> -->
 
                                 <p>Close centre wedge hook type power chucks are cost effective solution for universal machining where thru-hole is not essential.</p>

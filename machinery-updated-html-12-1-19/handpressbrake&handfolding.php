@@ -12,7 +12,7 @@ include_once('header.php');
 
 
     <!--Project Single Section-->
-    <section style="padding-bottom: 0;" class="project-single-section">
+    <section style="padding-bottom: 0;" class="project-single-section projectsinglesection">
 
         <div class="auto-container">
             <h2 style="color: black; padding: 10px;">Hand Press Brake & Hand Folding</h2>
@@ -23,9 +23,9 @@ include_once('header.php');
                 <div class="upper-box">
                     <div class="single-item-carousel owl-carousel owl-theme">
                         <div class="slide">
-                            <div style="display:flex; " class="container image">
+                            <div style="display:flex; " class="container image twentyfivemmimg">
                                 <img style="height:300px; width: 300px; border:1px solid #c9c9c9; margin-top:20px" src="images2/hand-press-brake.jpg" alt="" />
-                                <div style="margin-left:20px; margin-top:20px; text-align: justify;" class="text">
+                                <div style=" margin-top:20px; text-align: justify;" class="text threeeighttext">
                                 <!-- <h5>FRAME:</h5> -->
                                 <p>Our Heavy Duty Hand Press Brake Machines are made from M.S. Material and Mainly useful for any kind of Steel Furniture Industries. It is useful for Half Round and Right Angel Bending.</p>
                                 <h5>Side Walls:</h5>

@@ -12,7 +12,7 @@
            
 
             <!--Project Single Section-->
-            <section class="project-single-section">
+            <section class="project-single-section projectsinglesection">
 
                 <div class="auto-container">
                     <h2 style="color: black; padding: 10px;">Open Centre / Hollow Direct Mounting Power Chuck</h2>
@@ -23,9 +23,9 @@
                         <div class="upper-box">
                             <div class="single-item-carousel owl-carousel owl-theme">
                                 <div class="slide">
-                                    <div style="display: flex;" class="image">
+                                    <div style="display: flex;" class="image twentyfivemmimg">
                                         <img style="height:300px; width: 300px; border:1px solid #c9c9c9" src="images2/open-centre-hollow-direct-mounting-power-chuck.jpg" alt="" />
-                                        <div style="margin-top: 1px; margin-left:20px;"  class="text">
+                                        <div style="margin-top: 1px;"  class="text threeeighttext">
                                        
                                        <p>Open centre wedge hook chucks with thru hole are ideal for high speed chucking, bar chucking and universal machining. These chucks come fitted with back plate ready to mount on the machine..</p>
                                        <h4 style="color: black;">SPECIAL FEATURES:</h4>

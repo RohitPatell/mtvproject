@@ -12,7 +12,7 @@ include_once('header.php');
 
 
   <!--Project Single Section-->
-  <section style="margin-bottom: -100px;" class="project-single-section">
+  <section style="margin-bottom: -100px;" class="project-single-section projectsinglesection">
 
     <div class="auto-container">
       <h2 style="color: black; padding: 10px;">ABRASIVE BELT GRINDERS</h2>
@@ -23,9 +23,9 @@ include_once('header.php');
         <div class="upper-box">
           <div class="single-item-carousel owl-carousel owl-theme">
             <div class="slide">
-              <div style="display: flex;" class="image">
+              <div style="display: flex;" class="image twentyfivemmimg">
                 <img style="height:300px; width: 300px; border:1px solid #c9c9c9; margin-top:20px" src="images2/abrasive-belt-grinders3 (1).jpg  " alt="" />
-                <div style="margin-top:15px; margin-left:20px;" class="text">
+                <div style="margin-top:15px; text-align:justify" class="text threeeighttext">
                 <!-- <h5>FRAME:</h5> -->
 
                 <p>
@@ -51,7 +51,7 @@ p                                   <p>Architecto beatae duis autems vell eums i
         </div>
 
          <!-- <h2 class="title">London Wind Energy Plant</h2> -->
-        <div style="margin-top: 1px; align-items:justify; margin-bottom:30px; margin-left:10px;">
+        <div style="margin-top: 1px;text-align:justify;  margin-bottom:30px; ">
         <p>Use of best quality stamping and diecast rotors.
 
 </p>
@@ -86,11 +86,12 @@ p                                   <p>Architecto beatae duis autems vell eums i
 </p>
 <p>All machines carry warranty (except ball bearings) against any manufacturing defect as per the warranty terms prevailing of the company. No warranty for wear and tear items.
 </p>
-        </div>
+<h2 class="ptag" style="color: black;  margin-top:20px; margin-bottom:20px;">SPECIFCATIONS FOR ABRASIVE BELT GRINDERS</h2>
+        
+</div>
       </div>
     </div>
   </section>
-  <h2 style="color: black; margin-left:187px; margin-top:20px; margin-bottom:20px;">SPECIFCATIONS FOR ABRASIVE BELT GRINDERS</h2>
   <div style="margin-bottom: 30px;" class="container">
   <table class="table table-bordered table-striped">
     <thead class="thead-dark">

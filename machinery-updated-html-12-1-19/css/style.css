@@ -12681,8 +12681,193 @@ a.ui-button:active,
 
 
 /* ________________________________________________________________________________________ */
-
+.gettouctwithus
+{
+    margin-left: 170px;
+}
 .logoimg
 {
     padding-top: 10px;
 }
+
+#abtimg{
+    width: 738px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+#conn{
+    margin-bottom:60px;
+}
+.condiv{
+    margin-top:100px; 
+    margin-bottom:-100px;
+}
+.contact-section-twoo{
+    margin-top: -90px;
+}
+.contact-form-section{
+    padding-top: 5px;
+}
+
+.missionvison{
+    margin-top: 100px;
+    display:flex;
+}
+.leftcontent{
+    width: 770px;
+}
+.rightcontent{
+    width: 350px;
+}
+.inner-columnn{
+    border: 1px solid black; width: 320px; height:290px;
+}
+.conn{
+    display: flex;
+}
+.rightconn{
+    display: flex;
+}
+.application{
+    margin-top: 100px;
+
+}
+.gcimage{
+    width:100%;
+}
+.contacttus{
+    margin-top: 50px;
+}
+.threeeighttext{
+    margin-left:20px;
+}
+.ptag{
+    font-size: large;
+    font-weight: 600;
+}
+
+@media only screen and (max-width: 344px) {
+  .frame{
+    margin-top: 10px;
+  }
+  
+    .tablecon {
+        display: block;
+        overflow-x: auto;
+        font-size: xx-small;
+      }
+    
+      .tablecon thead, .tablecon tbody, .tablecon tr {
+        display: block;
+      }
+    
+      .tablecon td {
+        border: none;
+        position: relative;
+        padding-left: 3%; /* Adjust the padding as needed */
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        font-size: small; /* Adjust the font size as needed */
+      }
+    
+      .tablecon td:before {
+        position: absolute;
+        top: 0;
+        left: 1px;
+        width: 30%;
+        padding-right: 6px;
+        white-space: nowrap;
+        content: attr(data-label);
+      }
+        
+    .ptag{
+        font-size: medium;
+        font-weight: 700;
+    }
+    .threeeighttext{
+    margin-right: 10px;
+    margin-left: 0px;
+}
+.threeeighttextt{
+    margin-left: 0;
+  }
+    .threeeight{
+    flex-direction: column;
+    text-align: justify;
+}
+    .projectsinglesection{
+    padding-top: 20px;
+}
+    .twentyfivemmimgp{
+    text-align: justify;
+    padding-right: 20px;
+}
+    .twentyfivemmimg{
+    flex-direction: column;
+}
+    .contacttus{
+        margin-top: 30px;
+    }
+    .application{
+    flex-direction: column;
+    margin-top: 25px;
+
+}
+.gcimage{
+    width:80vh;
+}
+    .rightconn{
+   flex-direction: column;
+}
+    .inner-columnn{
+        width: 100%;
+        height: fit-content;
+    }
+.rightcontent{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    
+}
+.contact-section-twoo{
+    margin-top: -170px;
+}
+.About{
+    width: 100vh;
+    font-size:larger;
+    font-weight: 700;
+}
+.gettouctwithus{
+    margin: 10px;
+}
+#conn{
+    margin-top: 20px;
+    padding-top: -90px;
+    margin-bottom: 30px;
+
+}
+.pera{
+    width: 320px;
+    padding: 5px;
+}
+#abtimg{
+    width: 300px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.autoconn{
+    margin-top: 30px;
+}
+.missionvison
+{
+    flex-direction: column;
+    margin-top: 25px;
+}
+.leftcontent{
+    width: 100%;
+}
+
+}
+
+

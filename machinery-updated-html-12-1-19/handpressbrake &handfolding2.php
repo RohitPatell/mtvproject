@@ -12,7 +12,7 @@
           
 
             <!--Project Single Section-->
-            <section style="padding-bottom: 0px;" class="project-single-section">
+            <section style="padding-bottom: 0px;" class="project-single-section projectsinglesection">
 
                 <div class="auto-container">
                     <h2 style="color: black; padding: 10px;">Hand Press Brake & Hand Folding</h2>
@@ -23,9 +23,9 @@
                         <div class="upper-box">
                             <div class="single-item-carousel owl-carousel owl-theme">
                                 <div class="slide">
-                                    <div style="display: flex;" class="container image">
+                                    <div style="display: flex;" class="container image twentyfivemmimg">
                                         <img style="height:300px; width: 300px; border:1px solid #c9c9c9; margin-top:20px" src="images2/hand-press-brake2.jpg" alt="" />
-                                        <div style="margin-left: 20px; text-align: justify; margin-top:13px;" class="text">
+                                        <div style=" text-align: justify; margin-top:13px;" class="text">
                                         <!-- <h5>FRAME:</h5> -->
                                         <p>Our Heavy Duty Hand Press Brake Machines are made from M.S. Material and Mainly useful for any kind of Steel Furniture Industries. It is useful for Half Round and Right Angel Bending.</p>
                                         <h5>Side Walls:</h5>
@@ -48,15 +48,7 @@
                         </div>
 
                         <!-- <h2 class="title">London Wind Energy Plant</h2> -->
-                        <div class="row clearfix">
-                            <!--Content Box-->
-                            <div style="width:100%;" class="content-column col-lg-9 col-md-8 col-sm-12 col-xs-12">
-                                <div class="inner-column">
-                                   
-                                </div>
-                            </div>
-
-                        </div>
+   
                     </div>
                 </div>
             </section>

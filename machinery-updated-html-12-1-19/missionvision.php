@@ -1,8 +1,8 @@
 <?php
 include_once('header.php');
 ?>
-<div style="margin-top: 100px; color:black; display:flex; margin-bottom:60px;" class="container">
- <div style="width: 770px; text-align:justify" class="leftcontent">
+<div style=" color:black;  margin-bottom:60px;" class="missionvison container">
+ <div style=" text-align:justify" class="leftcontent">
 <h1>Mission</h1>
 <p style="margin-top: 10px;">We at MODERN committed to provide innovative, cost effective solutions to our customers that meets their specific needs and expectations. Satisfying customer specific requirements for the product Manufactured and providing in time service.</p>
 

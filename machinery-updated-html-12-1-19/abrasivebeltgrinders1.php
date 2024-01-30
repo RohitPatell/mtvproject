@@ -12,7 +12,7 @@ include_once('header.php');
 
 
   <!--Project Single Section-->
-  <section style="padding-bottom: 60px;" class="project-single-section">
+  <section style="padding-bottom: 60px;" class="project-single-section projectsinglesection">
 
     <div class="auto-container">
       <h2 style="color: black; padding: 10px;">Abrasive Belt Grinders1</h2>
@@ -23,22 +23,22 @@ include_once('header.php');
         <div class="upper-box">
           <div class="single-item-carousel owl-carousel owl-theme">
             <div class="slide">
-              <div style="display: flex;" class="image">
+              <div style="display: flex;" class="image twentyfivemmimg">
                 <img style="height:300px; width: 300px; border:1px solid #c9c9c9; margin-top:20px" src="images2/abrasive-belt-grinders1.jpg" alt="" />
-                <div style="margin-top: 15px; margin-left:20px; align-items:justify"  class="text">
+                <div style="margin-top: 15px;  align-items:justify"  class="threeeighttext text">
                 <!-- <h5>FRAME:</h5> -->
-                <p style="align-items:justify">Versatile machine generally requested for Forge Shops, Press Shops, Ferrous & non Ferrous Foundries, Fabrication Shops, Engineering Industries, Plastic & Glass Industries, Rubber & Leather Industries and wood Industries.</p>
-                <P style="align-items:justify">Rate of material removal is optimum. Excellent ground finish obtained.</P>
-                <P style="align-items:justify">High rate of production.</P>
-                <P style="align-items:justify">Machines available in four models i.e. Single Ended, Double Ended, Lathe Mounting and Multipurpose Combination machine.</P>
-                <P style="align-items:justify">Lathe Mounting belt grinding machines are designed to grind and polish shafts, rollers, cyclinders for plastic industries, textile screw etc. in this model the job will rotate between centers and the machine is mounted on lathe carriage.</P>
-                <P style="align-items:justify">Combination Multipurpose machines are universal machines where both wheel grinding and belt grinding jobs can be carried out.</P>
+                <p style="text-align: justify">Versatile machine generally requested for Forge Shops, Press Shops, Ferrous & non Ferrous Foundries, Fabrication Shops, Engineering Industries, Plastic & Glass Industries, Rubber & Leather Industries and wood Industries.</p>
+                <P style="text-align: justify">Rate of material removal is optimum. Excellent ground finish obtained.</P>
+                <P style="text-align: justify">High rate of production.</P>
+                <P style="text-align: justify">Machines available in four models i.e. Single Ended, Double Ended, Lathe Mounting and Multipurpose Combination machine.</P>
+                <P style="text-align: justify">Lathe Mounting belt grinding machines are designed to grind and polish shafts, rollers, cyclinders for plastic industries, textile screw etc. in this model the job will rotate between centers and the machine is mounted on lathe carriage.</P>
+                <P style="text-align: justify">Combination Multipurpose machines are universal machines where both wheel grinding and belt grinding jobs can be carried out.</P>
                <!-- <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatems accusantium doloremqu laudantiums ut, totams our aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae duis autems vell eums iriure dolors in hendrerit saepe eveniet  in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at seds eros sed et accumsan et iusto odio dignissim. Temporibus autem quibusdam et aut officiis debitis autrerum necesy itatibus saepe evenit uts et ut voluptates repudiandae sint et molestiae non recusandae.</p>
                                 <p>Architecto beatae duis autems vell eums iriure dolors in hendrerit saepe eveniet  in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at seds eros sed et accumsan et iusto odio works dignissim et autre officiis debitis autrerum sed necessitatibus saepe evenit.</p> -->
               </div>
 
               </div>
-              <div style="margin-top:10px;">
+              <div style="margin-top:10px; text-align: justify">
                 <P>Use of best quality stamping and diecast rotors.</P>
                 <P>Dynamically Balanced rotor minimise vibrations and ensure smooth running.</P>
                 <P>Telescopic tendering arm for belt tensioning.</P>
@@ -50,7 +50,7 @@ include_once('header.php');
                 <P>All machines are subject to rigid quality control tests.</P>
                 <P>Machines of different voltage and different frequency can be supplied against specific orders.</P>
                 <P>All machines carry warranty (except ball bearings) against any manufacturing defect as per the warranty terms prevailing of the company. No warranty for wear and tear items.</P>
-                <h2 style="color: black; margin-top:20px;">SPECIFCATIONS FOR ABRASIVE BELT GRINDERS</h2>
+                <p class="ptag" style="color: black; margin-top:20px;">SPECIFCATIONS FOR ABRASIVE BELT GRINDERS</p>
                 
               </div>
             </div>
@@ -62,7 +62,7 @@ include_once('header.php');
       </div>
     </div>
     <div class="container mt-5">
-      <table class="table table-bordered">
+      <table  class="table tablecon table-bordered">
         <thead class="thead-dark">
           <tr>
             <th>MODEL</th>

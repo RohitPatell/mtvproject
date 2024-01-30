@@ -12,7 +12,7 @@
 
           
             <!--Project Single Section-->
-            <section class="project-single-section">
+            <section class="project-single-section projectsinglesection">
 
                 <div class="auto-container">
                     <h2 style="color: black; padding: 10px;">All Geared Shaping Machine</h2>
@@ -23,9 +23,9 @@
                         <div class="upper-box">
                             <div class="single-item-carousel owl-carousel owl-theme">
                                 <div class="slide">
-                                    <div style="display: flex;" class="image">
+                                    <div style="display: flex;" class="image twentyfivemmimg">
                                         <img style="height:300px; width: 300px; border:1px solid #c9c9c9" src="images2/all-geared-shaping-machine.jpg" alt="" />
-                                        <div style="margin-top: 1px; margin-left:20px; text-align:justify" class="text">
+                                        <div style="margin-top: 1px;  text-align:justify" class="text threeeighttext">
                                         <!-- <h5>FRAME:</h5> -->
                                     
                                     <p>Our Shaping Machines are specialy designed to Heavy Duty the Various Job requirement in a workshop. Shaping Machines are manufactured with general rigidity, hardness and strength to with stand the heavy strains wear & tear of long use. For maintanance of Original accuracy for a longer period every part is made out of selected materials properly treated and skillfully machined in accurate alignment. The Machine has been designed for long continuous service without adjustment.</p>
@@ -48,7 +48,7 @@
                             </div>
 
                         </div>
-                        <div class="container"><h2 style="margin-bottom:20px; color: black;">Specifications</h2></div>
+                        <div class="contaner"><h2 class="ptag" style="margin-bottom:20px; color: black;">Specifications</h2></div>
                     </div>
                 </div>
                 <div class="container mt-5">

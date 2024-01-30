@@ -12,7 +12,7 @@ include_once('header.php');
 
 
   <!--Project Single Section-->
-  <section style="padding-bottom: 60px;" class="project-single-section">
+  <section style="padding-bottom: 60px;" class="project-single-section projectsinglesection">
 
     <div class="auto-container">
       <h2 style="color: black; padding: 10px;">Belter Machine</h2>
@@ -23,9 +23,9 @@ include_once('header.php');
         <div class="upper-box">
           <div class="single-item-carousel owl-carousel owl-theme">
             <div class="slide">
-              <div style="display: flex;" class="image">
+              <div style="display: flex;" class="image twentyfivemmimg">
                 <img style="height:300px; width: 300px; border:1px solid #c9c9c9" src="images2/belter-machine.jpg" alt="" />
-                <div style="margin-left: 20px; margin-top:1px; text-align:justify" class="text">
+                <div style=" margin-top:1px; text-align:justify" class="text threeeighttext">
                 <!-- <h5>FRAME:</h5> -->
                 <p>Machines are specially design to Heavy Duty the various Job requirements in Wood Working Industries. Machines are manufactured with general, rigidity and strength to with stand the heavy strains wear and tear of long use. We want to achieve satisfaction through our quality products also we look forward to enhance relationship with our Customers as well as attract new Business Relationship.</p>
                 <!-- <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatems accusantium doloremqu laudantiums ut, totams our aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae duis autems vell eums iriure dolors in hendrerit saepe eveniet  in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at seds eros sed et accumsan et iusto odio dignissim. Temporibus autem quibusdam et aut officiis debitis autrerum necesy itatibus saepe evenit uts et ut voluptates repudiandae sint et molestiae non recusandae.</p>
@@ -48,7 +48,7 @@ include_once('header.php');
 
         </div>
         <div>
-          <h2 style="margin-bottom:20px; color: black;">Specifications
+          <h2 class="ptag" style="margin-bottom:20px; color: black;">Specifications
           </h2>
         </div>
       </div>

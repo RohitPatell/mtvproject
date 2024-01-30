@@ -2,6 +2,7 @@
 
 @media only screen and (max-width: 1140px){
 
+	
 	.main-header .header-top .top-left{
 		padding-left: 0;
 	}
@@ -111,7 +112,7 @@
 		position: relative;
 		display: block;
 		transform:translate(0);
-		background-color: ##181818;
+		background-color: #181818;
 	}
 	.highlights .highlight-block .inner-box:before {
 		display: none;
@@ -848,6 +849,9 @@
 	.project-single-section,
 	.services-section{
 		padding: 80px 0 80px;
+	}
+	.projectsinglesection{
+		padding-top: 25px;
 	}
 
 	.about-block-two,

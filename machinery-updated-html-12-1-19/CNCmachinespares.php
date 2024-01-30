@@ -12,7 +12,7 @@ include_once('header.php');
 
 
     <!--Project Single Section-->
-    <section style="padding-bottom:0px;" class="project-single-section">
+    <section style="padding-bottom:0px;" class="project-single-section projectsinglesection">
 
         <div class="auto-container">
             <h2 style="color: black; padding: 10px;">CNC Machine Spares</h2>
@@ -26,7 +26,7 @@ include_once('header.php');
                     <!--Content Box-->
                     <div style="width:100%;" class="content-column col-lg-9 col-md-8 col-sm-12 col-xs-12">
                         <div class="inner-column">
-                            <div class="text">
+                            <div class="tex">
                                 <img src="images2/cncsparesdetails.jpg" alt="">
                             </div>
 

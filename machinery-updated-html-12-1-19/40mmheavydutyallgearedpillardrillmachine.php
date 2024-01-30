@@ -12,7 +12,7 @@ include_once('header.php');
 
 
     <!--Project Single Section-->
-    <section style="padding-bottom: 0;" class="project-single-section">
+    <section style="padding-bottom: 0;" class="project-single-section projectsinglesection">
 
         <div class="auto-container">
             <h2 style="color: black; padding: 10px;">40mm Heavy Duty All Geared Pillar Drill Machine</h2>
@@ -23,11 +23,11 @@ include_once('header.php');
                 <div class="upper-box">
                     <div class="single-item-carousel owl-carousel owl-theme">
                         <div class="slide">
-                            <div style="display: flex;" class="image">
+                            <div style="display: flex;" class="image twentyfivemmimg">
                                 <img style="height:300px; width: 300px; border:1px solid #c9c9c9; margin-top:20px" src="images2/40mm-heavy-duty-all-geared-pillar-drill-machine.jpg" alt="" />
-                                <div style="align-items: justify; margin-top:15px; margin-left:20px;" class="text">
+                                <div style="align-items: justify; margin-top:15px; margin-left:20px;" class="threeeighttext text">
                                 <!-- <h5>FRAME:</h5> -->
-                                <p>Our Drill are well known machines, which have a sturdy built and is designed for both production and Toolroom jobs. The machine cover various range of operations like Drilling, Reaming, Tapping, Lapping, Boring & Counter Boring & Counter Boring in cast iron, steel and other materials.</p>
+                                <p style="text-align: justify;">Our Drill are well known machines, which have a sturdy built and is designed for both production and Toolroom jobs. The machine cover various range of operations like Drilling, Reaming, Tapping, Lapping, Boring & Counter Boring & Counter Boring in cast iron, steel and other materials.</p>
 
                                 <!-- <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatems accusantium doloremqu laudantiums ut, totams our aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae duis autems vell eums iriure dolors in hendrerit saepe eveniet  in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at seds eros sed et accumsan et iusto odio dignissim. Temporibus autem quibusdam et aut officiis debitis autrerum necesy itatibus saepe evenit uts et ut voluptates repudiandae sint et molestiae non recusandae.</p>
                                 <p>Architecto beatae duis autems vell eums iriure dolors in hendrerit saepe eveniet  in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at seds eros sed et accumsan et iusto odio works dignissim et autre officiis debitis autrerum sed necessitatibus saepe evenit.</p> -->

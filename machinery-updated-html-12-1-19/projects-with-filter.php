@@ -1,7 +1,7 @@
 <?php
-
-include_once('header.php');
+include('header.php');
 ?>
+
 
     <div class="page-wrapper">
 
@@ -14,17 +14,7 @@ include_once('header.php');
             <div class="auto-container">
 
                 <div class="mixitup-gallery">
-                <!-- <div class="inner-container clearfix">
-                    <div class="filters text-center clearfix">                     
-                        <ul class="filter-tabs filter-btns clearfix">
-                            <li class="filter active" data-role="button" data-filter="all">View All</li>
-                            <li class="filter" data-role="button" data-filter=".engineering">Engineering</li>
-                            <li class="filter" data-role="button" data-filter=".construction">Construction</li>
-                            <li class="filter" data-role="button" data-filter=".power">Power & Energy</li>
-                            <li class="filter" data-role="button" data-filter=".agriculture">Agriculture</li>
-                        </ul>
-                    </div>
-                </div> -->
+               
 
                     <div style="margin-top: 30px;" class="filter-list row clearfix">
                         <!-- Project Block -->
@@ -557,13 +547,11 @@ include_once('header.php');
 
 
 
-    <?php
-    include('footer.php');
-    ?>
 
-    <!-- End Main Footer -->
+    
 
+<?php
+include('footer.php');
+?>
 
-    <!--End pagewrapper-->
-
-    <!--Scroll to top-->
+    

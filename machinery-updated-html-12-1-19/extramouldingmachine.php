@@ -12,7 +12,7 @@
             
 
             <!--Project Single Section-->
-            <section style="padding-bottom: 0px;" class="project-single-section">
+            <section style="padding-bottom: 0px;" class="project-single-section projectsinglesection">
 
                 <div class="auto-container">
                     <h2 style="color: black; padding: 10px;">Extra Moulding Machine</h2>
@@ -23,9 +23,9 @@
                         <div class="upper-box">
                             <div class="single-item-carousel owl-carousel owl-theme">
                                 <div class="slide">
-                                    <div style="display: flex;" class="image">
+                                    <div style="display: flex;" class="image twentyfivemmimg">
                                         <img style="height:300px; width: 300px; border:1px solid #c9c9c9; margin-top:20px" src="images2/extra-moulding-machine.jpg" alt="" />
-                                        <div style="align-items: justify; margin-top: 15px; margin-left:20px;" class="text">
+                                        <div style="text-align:justify; margin-top: 15px;" class="text threeeighttext">
                                         <!-- <h5>FRAME:</h5> -->
                                         
                                         <p>Machines are specially design to Heavy Duty the various Job requirements in Wood Working Industries. Machines are manufactured with general, rigidity and strength to with stand the heavy strains wear and tear of long use. We want to achieve satisfaction through our quality products also we look forward to enhance relationship with our Customers as well as attract new Business Relationship.</p>
